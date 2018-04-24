@@ -1,0 +1,16 @@
+{
+    "name": "jofar/composerdemo",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jo",
+            "email": "anchors@126.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
