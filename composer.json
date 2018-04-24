@@ -2,9 +2,6 @@
     "name": "jofar/composerdemo",
     "description": "a test composer project",
     "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
     "license": "MIT",
     "authors": [
         {
